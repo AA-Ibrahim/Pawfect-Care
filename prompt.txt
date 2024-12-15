@@ -1,0 +1,20 @@
+Prompt 2: Pet Care E-Commerce Site
+Email:
+Hi there,
+
+I’m Emilia, the founder of Pawfect Care, an online store for pet products like food, toys, and grooming essentials. Our mission is to provide pet owners with high-quality, sustainable products that their pets will love.
+
+We’d like a fresh design for our homepage that showcases our brand’s values and makes shopping easy. The page should have a clean, welcoming look with warm colors like beige, light blue, and green. Use the headline: "Everything Your Pet Needs, Delivered." Below that, a subheading: "Shop eco-friendly and high-quality products your pets will adore."
+
+There should be three main categories:
+
+Food & Treats
+Toys
+Grooming Essentials
+Under each category, add a CTA that says, "Shop Now." Please also include a testimonial section with reviews from pet owners and a section for current deals or discounts. Visuals should include happy pets, eco-friendly packaging, and lifestyle shots.
+
+Thanks in advance for your help!
+
+Best,
+Emilia Torres
+
